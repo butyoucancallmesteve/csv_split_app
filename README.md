@@ -15,7 +15,7 @@ This Python application allows users to split a large CSV file into smaller file
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/csv-splitter.git
+   git clone https://github.com/butyoucancallmesteve/csv_split_app.git
    cd csv-splitter
    ```
 
